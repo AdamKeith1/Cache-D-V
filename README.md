@@ -1,9 +1,15 @@
 # Cache-D-V
 In progress...
 
-data cache
-specs tbd
-test plan and env tbd (uvm testbench most likely)
+Main plan is to create caches of different specs and then track AMAT to examine tradeoffs
 
-will add MSI, MESI, MOESI mem control and tb time permitting
+test plan and env tbd (uvm testbench most likely with Synopsys EDA Playground setup)
 
+SPECS
+---
+Iteration 1
+---
+- 4-Way set associative
+- 8 idx
+- 2 blocks
+- LRU 
