@@ -11,5 +11,5 @@ Iteration 1
 ---
 - 4-Way set associative
 - 8 idx
-- 2 blocks
+- 4 blocks
 - LRU 
